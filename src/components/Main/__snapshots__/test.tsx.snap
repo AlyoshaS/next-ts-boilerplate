@@ -6,4 +6,4 @@ exports[`<Main /> Should render the heading 1`] = `
     React Avançado
   </h1>
 </main>
-`;
+`
