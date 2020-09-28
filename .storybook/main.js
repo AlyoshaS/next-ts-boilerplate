@@ -5,6 +5,7 @@ module.exports = {
   "addons": [
     "@stoybook/preset-typescript",
     "@storybook/addon-links",
-    "@storybook/addon-essentials"
+    "@storybook/addon-essentials",
+    "@storybook/addon-knobs/register"
   ]
 }
